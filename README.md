@@ -3,7 +3,7 @@
 -- 🌱 I’m currently learning ...b.tect csbs 1st yr
 -- 💞️ I’m looking to collaborate on ...full stack developer
 -- 📫 How to reach me ...hasenas.ug.24.cb@francisxavier.ac.in
--- 😄 Pronouns: ...hardwork pays of
+-- 😄 Pronouns: ...hardwork pays off
 -- ⚡ Fun fact: ...hahahahahahaha
 
 <!---
